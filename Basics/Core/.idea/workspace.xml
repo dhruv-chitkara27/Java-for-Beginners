@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dbf0cfa-3a27-4eb9-a12f-918dc5fa9b3b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimitiveDataTypes/PrimitiveDataTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimitiveDataTypes/src/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/src/AddTwoNumsUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/src/AddTwoNumsUsers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Variables.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PrimitiveDataTypes/src/DataTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -55,8 +69,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="427" />
-    <option name="y" value="733" />
+    <option name="x" value="674" />
+    <option name="y" value="196" />
     <option name="width" value="969" />
     <option name="height" value="665" />
   </component>
@@ -76,19 +90,19 @@
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrimitiveDataTypes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547580163907" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Variables.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547583049050" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -160,10 +174,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="553" y="138" width="969" height="665" extended-state="0" />
+    <frame x="674" y="196" width="969" height="665" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25515744" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2616721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -172,7 +186,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37593985" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37593985" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -200,6 +214,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimitiveDataTypes/src/DataTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
