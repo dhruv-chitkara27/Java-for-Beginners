@@ -25,5 +25,12 @@ public class DataTypes {
         char mUniCode = '\u0041';
 
         System.out.println(mUniCode);
+
+        String mString = "I am a String";
+        System.out.println(mString);
+
+        System.out.printf(mString.toUpperCase());
+
+        System.out.println(mString.trim());
     }
 }
