@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dbf0cfa-3a27-4eb9-a12f-918dc5fa9b3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/While/While.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While/src/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoWhile/DoWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoWhile/src/DoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" afterDir="false" />
@@ -35,10 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/While/src/While.java">
+        <entry file="file://$PROJECT_DIR$/DoWhile/src/DoWhile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="285">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -72,11 +72,12 @@
         <option value="$PROJECT_DIR$/IfElse/src/IfElse.java" />
         <option value="$PROJECT_DIR$/Switch/src/Switch.java" />
         <option value="$PROJECT_DIR$/While/src/While.java" />
+        <option value="$PROJECT_DIR$/DoWhile/src/DoWhile.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="652" />
+    <option name="x" value="593" />
     <option name="y" value="27" />
     <option name="width" value="829" />
     <option name="height" value="740" />
@@ -99,7 +100,7 @@
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="While" type="462c0819:PsiDirectoryNode" />
+              <item name="DoWhile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -108,7 +109,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547670832429" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547671086178" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -128,23 +129,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.While">
+  <component name="RunManager" selected="Application.DoWhile">
+    <configuration name="DoWhile" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DoWhile" />
+      <module name="DoWhile" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PrimitiveDataTypes/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" singleton="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="Core" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="While" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="While" />
-      <module name="While" />
-      <option name="ENABLE_SWING_INSPECTOR" value="true" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PrimitiveDataTypes/src" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,7 +168,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.While" />
+      <item itemvalue="Application.DoWhile" />
       <item itemvalue="Application.Variables" />
     </list>
   </component>
@@ -193,10 +194,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="537" y="27" width="829" height="740" extended-state="0" />
+    <frame x="593" y="27" width="829" height="740" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49754903" weight="0.45070422" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49754903" weight="0.7605634" />
       <window_info id="Structure" order="1" sideWeight="0.502451" side_tool="true" weight="0.1828528" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -205,12 +206,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32289952" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3223684" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3261944" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3256579" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32894737" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.30971992" />
@@ -291,8 +292,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/While/src/While.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state>
+          <caret column="13" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoWhile/src/DoWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
