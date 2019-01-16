@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmatic/Arithmatic.iml" filepath="$PROJECT_DIR$/Arithmatic/Arithmatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical/Logical.iml" filepath="$PROJECT_DIR$/Logical/Logical.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimitiveDataTypes/PrimitiveDataTypes.iml" filepath="$PROJECT_DIR$/PrimitiveDataTypes/PrimitiveDataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational/Relational.iml" filepath="$PROJECT_DIR$/Relational/Relational.iml" />
     </modules>
