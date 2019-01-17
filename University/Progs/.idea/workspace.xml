@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c87dc8-be96-4e3b-8d50-7394b80f8462" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Compare/Compare.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Compare/src/Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvenNumbers/src/EvenNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Basics/Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basics/Core/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNumsUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddTwoNumsUsers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Compare/src/Compare.java">
+        <entry file="file://$PROJECT_DIR$/EvenNumbers/src/EvenNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+            <state relative-caret-position="19">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -47,12 +46,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/AddTwoNumsUsers.java" />
         <option value="$PROJECT_DIR$/Compare/src/Compare.java" />
+        <option value="$PROJECT_DIR$/EvenNumbers/src/EvenNumbers.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="460" />
-    <option name="y" value="89" />
+    <option name="x" value="410" />
+    <option name="y" value="48" />
     <option name="width" value="969" />
     <option name="height" value="665" />
   </component>
@@ -73,7 +73,7 @@
             <path>
               <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Progs" type="462c0819:PsiDirectoryNode" />
-              <item name="Compare" type="462c0819:PsiDirectoryNode" />
+              <item name="EvenNumbers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,7 +82,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547753337767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547753600172" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -102,16 +102,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Compare" />
-      <module name="Compare" />
+    <configuration name="EvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenNumbers" />
+      <module name="EvenNumbers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Compare" />
+        <item itemvalue="Application.EvenNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +129,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="460" y="89" width="969" height="665" extended-state="0" />
+    <frame x="397" y="89" width="969" height="665" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25515744" />
@@ -141,7 +141,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28782895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -172,6 +172,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EvenNumbers/src/EvenNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
