@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c87dc8-be96-4e3b-8d50-7394b80f8462" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PatternB/PatternB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PatternB/src/PatternB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatternC/PatternC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatternC/src/PatternC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Basics/Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basics/Core/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -29,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PatternB/src/PatternB.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PatternC/src/PatternC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -62,12 +71,13 @@
         <option value="$PROJECT_DIR$/Factorial/src/Factorial.java" />
         <option value="$PROJECT_DIR$/PatternA/src/PatternA.java" />
         <option value="$PROJECT_DIR$/PatternB/src/PatternB.java" />
+        <option value="$PROJECT_DIR$/PatternC/src/PatternC.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="658" />
-    <option name="y" value="142" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="653" />
+    <option name="y" value="112" />
     <option name="width" value="995" />
     <option name="height" value="656" />
   </component>
@@ -84,16 +94,6 @@
               <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Progs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Progs" type="462c0819:PsiDirectoryNode" />
-              <item name="PatternA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Progs" type="462c0819:PsiDirectoryNode" />
-              <item name="PatternB" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -102,7 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547993282494" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547994968155" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -122,16 +122,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PatternB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternB" />
-      <module name="PatternB" />
+    <configuration name="PatternC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternC" />
+      <module name="PatternC" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PatternB" />
+        <item itemvalue="Application.PatternC" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="658" y="142" width="995" height="656" extended-state="0" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.36949924" />
@@ -161,7 +161,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28680688" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21217105" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -240,7 +240,14 @@
     <entry file="file://$PROJECT_DIR$/PatternB/src/PatternB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PatternC/src/PatternC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
