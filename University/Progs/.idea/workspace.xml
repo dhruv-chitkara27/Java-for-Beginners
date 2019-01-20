@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c87dc8-be96-4e3b-8d50-7394b80f8462" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GradeGreetings/GradeGreetings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradeGreetings/src/GradeGreetings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Basics/Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basics/Core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomNums/src/RandomNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/RandomNums/src/RandomNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +21,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RandomNums/src/RandomNums.java">
+        <entry file="file://$PROJECT_DIR$/GradeGreetings/src/GradeGreetings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -52,12 +64,12 @@
         <option value="$PROJECT_DIR$/PatternB/src/PatternB.java" />
         <option value="$PROJECT_DIR$/PatternC/src/PatternC.java" />
         <option value="$PROJECT_DIR$/RandomNums/src/RandomNums.java" />
+        <option value="$PROJECT_DIR$/GradeGreetings/src/GradeGreetings.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="348" />
-    <option name="y" value="51" />
+    <option name="y" value="27" />
     <option name="width" value="995" />
     <option name="height" value="648" />
   </component>
@@ -77,7 +89,13 @@
             <path>
               <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Progs" type="462c0819:PsiDirectoryNode" />
-              <item name="RandomNums" type="462c0819:PsiDirectoryNode" />
+              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progs" type="462c0819:PsiDirectoryNode" />
+              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,7 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547997548740" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548000069022" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -107,16 +125,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="RandomNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomNums" />
-      <module name="RandomNums" />
+    <configuration name="GradeGreetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GradeGreetings" />
+      <module name="GradeGreetings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomNums" />
+        <item itemvalue="Application.GradeGreetings" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +155,7 @@
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36949924" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5142555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -146,15 +164,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17763157" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17434211" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.375" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.375" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3288719" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.27796054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -208,13 +226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PatternC/src/PatternC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -240,6 +251,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradeGreetings/src/GradeGreetings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
