@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Compare/Compare.iml" filepath="$PROJECT_DIR$/Compare/Compare.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FahrenheitT0Celsius/FahrenheitT0Celsius.iml" filepath="$PROJECT_DIR$/FahrenheitT0Celsius/FahrenheitT0Celsius.iml" />
       <module fileurl="file://$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" filepath="$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/Progs.iml" filepath="$PROJECT_DIR$/Progs.iml" />
