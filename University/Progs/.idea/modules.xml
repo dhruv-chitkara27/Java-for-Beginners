@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/PatternB/PatternB.iml" filepath="$PROJECT_DIR$/PatternB/PatternB.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatternC/PatternC.iml" filepath="$PROJECT_DIR$/PatternC/PatternC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Progs.iml" filepath="$PROJECT_DIR$/Progs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomNums/RandomNums.iml" filepath="$PROJECT_DIR$/RandomNums/RandomNums.iml" />
     </modules>
   </component>
 </project>
