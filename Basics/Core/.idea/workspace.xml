@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dbf0cfa-3a27-4eb9-a12f-918dc5fa9b3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/For/For.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For/src/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayType/ArrayType.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayType/src/ArrayType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../University/Progs/src/AddTwoNumsUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/src/AddTwoNumsUsers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/For/src/For.java">
+        <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="217">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -74,23 +73,39 @@
         <option value="$PROJECT_DIR$/While/src/While.java" />
         <option value="$PROJECT_DIR$/DoWhile/src/DoWhile.java" />
         <option value="$PROJECT_DIR$/For/src/For.java" />
+        <option value="$PROJECT_DIR$/ArrayType/src/ArrayType.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="512" />
-    <option name="y" value="27" />
-    <option name="width" value="829" />
-    <option name="height" value="740" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="468" />
+    <option name="y" value="92" />
+    <option name="width" value="985" />
+    <option name="height" value="647" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Core" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ArrayType" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Core" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ArrayType" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,8 +120,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547671356405" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548057485749" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ArrayType" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -125,14 +140,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.For">
-    <configuration name="For" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ArrayType">
+    <configuration name="ArrayType" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="For" />
-      <module name="For" />
+      <option name="MAIN_CLASS_NAME" value="ArrayType" />
+      <module name="ArrayType" />
       <option name="ENABLE_SWING_INSPECTOR" value="true" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PrimitiveDataTypes/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayType" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -164,7 +179,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.For" />
+      <item itemvalue="Application.ArrayType" />
       <item itemvalue="Application.Variables" />
     </list>
   </component>
@@ -190,10 +205,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="537" y="27" width="829" height="740" extended-state="0" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49754903" weight="0.7605634" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49754903" weight="0.3094984" />
       <window_info id="Structure" order="1" sideWeight="0.502451" side_tool="true" weight="0.1828528" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -202,7 +217,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32072368" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26973686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -269,9 +284,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IfElse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IfElse.java" />
     <entry file="file://$PROJECT_DIR$/IfElse/src/IfElse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -302,8 +315,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/For/src/For.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
