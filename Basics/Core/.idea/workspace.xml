@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dbf0cfa-3a27-4eb9-a12f-918dc5fa9b3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayType/ArrayType.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayType/src/ArrayType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayExcercise/ArrayExcercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayExcercise/src/ArrayExcercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" afterDir="false" />
@@ -34,10 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
+        <entry file="file://$PROJECT_DIR$/ArrayExcercise/src/ArrayExcercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="401">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -74,12 +74,13 @@
         <option value="$PROJECT_DIR$/DoWhile/src/DoWhile.java" />
         <option value="$PROJECT_DIR$/For/src/For.java" />
         <option value="$PROJECT_DIR$/ArrayType/src/ArrayType.java" />
+        <option value="$PROJECT_DIR$/ArrayExcercise/src/ArrayExcercise.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="468" />
-    <option name="y" value="92" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="623" />
+    <option name="y" value="215" />
     <option name="width" value="985" />
     <option name="height" value="647" />
   </component>
@@ -95,11 +96,11 @@
           <expand>
             <path>
               <item name="Core" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ArrayType" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ArrayExcercise" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="Core" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ArrayType" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ArrayExcercise" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
@@ -120,7 +121,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548057485749" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548071938241" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ArrayType" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -140,12 +141,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayType">
-    <configuration name="ArrayType" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ArrayExcercise">
+    <configuration name="ArrayExcercise" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ArrayType" />
-      <module name="ArrayType" />
+      <option name="MAIN_CLASS_NAME" value="ArrayExcercise" />
+      <module name="ArrayExcercise" />
       <option name="ENABLE_SWING_INSPECTOR" value="true" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayType" />
       <method v="2">
@@ -179,7 +180,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayType" />
+      <item itemvalue="Application.ArrayExcercise" />
       <item itemvalue="Application.Variables" />
     </list>
   </component>
@@ -205,10 +206,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <frame x="623" y="215" width="985" height="647" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49754903" weight="0.3094984" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49754903" weight="0.3088012" />
       <window_info id="Structure" order="1" sideWeight="0.502451" side_tool="true" weight="0.1828528" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -217,7 +218,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26973686" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26973686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,8 +323,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="438">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayExcercise/src/ArrayExcercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
