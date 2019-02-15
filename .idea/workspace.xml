@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc27e47-1cb3-4ee8-a6e1-d7fbf61173fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Core/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Core/ClassDemo/ClassDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Core/ClassDemo/src/BankApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Core/ClassDemo/src/BankUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Core/ClassDemo/src/SbiUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Core/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Core/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/TODO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/TODO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/University/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/University/Progs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lets-get-hands-dirty-with-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lets-get-hands-dirty-with-JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Core/ClassDemo/production/Lets-get-hands-dirty-with-JAVA/ArrayType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Core/ClassDemo/production/Lets-get-hands-dirty-with-JAVA/BankApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Core/ClassDemo/production/Lets-get-hands-dirty-with-JAVA/BankUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Core/ClassDemo/production/Lets-get-hands-dirty-with-JAVA/SbiUser.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +19,17 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basics/Core/ArrayListSample/src/ArrayListSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,6 +37,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Basics/Core</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +70,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,19 +84,30 @@
               <item name="Lets-get-hands-dirty-with-JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="Basics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Lets-get-hands-dirty-with-JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lets-get-hands-dirty-with-JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lets-get-hands-dirty-with-JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lets-get-hands-dirty-with-JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="Switch" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550045486604" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550153133862" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
@@ -132,15 +159,13 @@
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6176024" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36115327" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Run Dashboard" weight="0.26644737" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -151,6 +176,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run Dashboard" order="10" weight="0.26644737" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -165,20 +192,8 @@
     <entry file="file://$PROJECT_DIR$/Basics/Core/ArrayType/src/ArrayType.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/Core/ArrayType/src/BankUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+    <entry file="file://$PROJECT_DIR$/Basics/Core/ArrayType/src/BankUser.java" />
     <entry file="file://$PROJECT_DIR$/Basics/Core/ClassDemo/src/SbiUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -204,8 +219,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/Core/GetterSetter">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Basics/Core/GetterSetter" />
+    <entry file="file://$PROJECT_DIR$/Basics/Core/ArrayListSample/src/ArrayListSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -264,7 +284,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
