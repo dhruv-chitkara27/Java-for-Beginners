@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dbf0cfa-3a27-4eb9-a12f-918dc5fa9b3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GetterSetter/GetterSetter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetterSetter/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassDemo/ClassDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassDemo/src/BankApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassDemo/production/Lets-get-hands-dirty-with-JAVA/production/Lets-get-hands-dirty-with-JAVA/ClassDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassDemo/production/Lets-get-hands-dirty-with-JAVA/production/Lets-get-hands-dirty-with-JAVA/production/Lets-get-hands-dirty-with-JAVA/ClassDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/TODO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/TODO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,17 +34,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GetterSetter/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,7 +71,6 @@
         <option value="$PROJECT_DIR$/ArrayListSample/src/ArrayListSample.java" />
         <option value="$PROJECT_DIR$/ArrayListAdv/src/ArrayListAdv.java" />
         <option value="$PROJECT_DIR$/ClassDemo/src/BankApp.java" />
-        <option value="$PROJECT_DIR$/GetterSetter/src/Main.java" />
       </list>
     </option>
   </component>
@@ -100,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -109,34 +94,21 @@
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="GetterSetter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="GetterSetter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551012027107" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GetterSetter" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548322355812" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,14 +122,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ArrayListAdv">
+    <configuration name="ArrayListAdv" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="GetterSetter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GetterSetter" />
+      <option name="MAIN_CLASS_NAME" value="ArrayListAdv" />
+      <module name="ArrayListAdv" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayType" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -189,7 +161,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ArrayListAdv" />
       <item itemvalue="Application.Variables" />
     </list>
   </component>
@@ -203,7 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547575675022</updated>
-      <workItem from="1551010511634" duration="1419000" />
     </task>
     <task id="LOCAL-00001" summary="Variables.java">
       <created>1547576209843</created>
@@ -215,22 +186,17 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1419000" />
-  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49754903" visible="true" weight="0.24279211" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49754903" visible="true" weight="0.23899849" />
       <window_info id="Structure" order="1" sideWeight="0.502451" side_tool="true" weight="0.1828528" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.28618422" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26973686" />
@@ -242,8 +208,6 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007587" side_tool="true" weight="0.3256579" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32894737" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.30921054" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.28618422" />
-      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -254,9 +218,6 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32899022" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Variables.java" />
@@ -393,13 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetterSetter/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -452,7 +406,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>GetterSetter</last-edited>
+          <last-edited>Core</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

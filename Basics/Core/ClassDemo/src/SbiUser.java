@@ -14,7 +14,7 @@ public class SbiUser extends BankApp {
     }
 }
 
-public class NewBank extends BankApp {
+class NewBank extends BankApp {
 
     public NewBank(String name) {
         super(name);

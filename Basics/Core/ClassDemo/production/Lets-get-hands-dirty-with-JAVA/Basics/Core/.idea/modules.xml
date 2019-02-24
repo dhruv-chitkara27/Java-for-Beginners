@@ -12,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoWhile/DoWhile.iml" filepath="$PROJECT_DIR$/DoWhile/DoWhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/For/For.iml" filepath="$PROJECT_DIR$/For/For.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GetterSetter/GetterSetter.iml" filepath="$PROJECT_DIR$/GetterSetter/GetterSetter.iml" />
       <module fileurl="file://$PROJECT_DIR$/IfElse/IfElse.iml" filepath="$PROJECT_DIR$/IfElse/IfElse.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logical/Logical.iml" filepath="$PROJECT_DIR$/Logical/Logical.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
