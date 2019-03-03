@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dbf0cfa-3a27-4eb9-a12f-918dc5fa9b3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TryCatch/TryCatch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TryCatch/src/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geny/Geny.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geny/src/Geny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxyFinder/src/MaxyFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/DateDayFinder/src/DateDayFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/DateDayFinder/src/DateDayFinder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +35,17 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MaxyFinder/src/MaxyFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,12 +91,14 @@
         <option value="$PROJECT_DIR$/SelectionSort/src/SelectionSort.java" />
         <option value="$PROJECT_DIR$/InsertionSort/src/InsertionSort.java" />
         <option value="$PROJECT_DIR$/TryCatch/src/TryCatch.java" />
+        <option value="$PROJECT_DIR$/Geny/src/Geny.java" />
+        <option value="$PROJECT_DIR$/MaxyFinder/src/MaxyFinder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="674" />
-    <option name="y" value="259" />
+    <option name="x" value="779" />
+    <option name="y" value="158" />
     <option name="width" value="673" />
     <option name="height" value="740" />
   </component>
@@ -93,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,22 +119,21 @@
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="TryCatch" type="462c0819:PsiDirectoryNode" />
+              <item name="MaxyFinder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551611793169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551618930870" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../University/Progs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MaxyFinder" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -137,14 +152,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TryCatch">
-    <configuration name="TryCatch" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MaxyFinder">
+    <configuration name="MaxyFinder" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TryCatch" />
-      <module name="TryCatch" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TryCatch" />
+      <option name="MAIN_CLASS_NAME" value="MaxyFinder" />
+      <module name="MaxyFinder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MaxyFinder" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,7 +191,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TryCatch" />
+      <item itemvalue="Application.MaxyFinder" />
       <item itemvalue="Application.Variables" />
     </list>
   </component>
@@ -194,6 +209,7 @@
       <workItem from="1551226838597" duration="1917000" />
       <workItem from="1551427329857" duration="2618000" />
       <workItem from="1551500713608" duration="9037000" />
+      <workItem from="1551615417698" duration="1880000" />
     </task>
     <task id="LOCAL-00001" summary="Variables.java">
       <created>1547576209843</created>
@@ -206,10 +222,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15587000" />
+    <option name="totallyTimeSpent" value="17467000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="674" y="259" width="673" height="740" extended-state="0" />
+    <frame x="779" y="158" width="673" height="740" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49754903" weight="0.3184" />
       <window_info id="Structure" order="1" sideWeight="0.502451" side_tool="true" weight="0.1828528" />
@@ -220,7 +237,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26853377" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26853377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -514,6 +531,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geny/src/Geny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxyFinder/src/MaxyFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
         </state>
       </provider>
     </entry>

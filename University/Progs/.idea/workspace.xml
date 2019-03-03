@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c87dc8-be96-4e3b-8d50-7394b80f8462" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Basics/Core/TryCatch/TryCatch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Basics/Core/TryCatch/src/TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateDayFinder/DateDayFinder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateDayFinder/src/DateDayFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MalUrl/MalUrl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MalUrl/src/MalUrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Basics/Core/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basics/Core/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Basics/Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basics/Core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DateDayFinder/src/DateDayFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/DateDayFinder/src/DateDayFinder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,17 +17,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DateDayFinder/src/DateDayFinder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,8 +50,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="731" />
-    <option name="y" value="65" />
+    <option name="x" value="554" />
+    <option name="y" value="48" />
     <option name="width" value="635" />
     <option name="height" value="647" />
   </component>
@@ -110,9 +93,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551612700218" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551615417011" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MalUrl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Basics/Core" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -131,17 +114,17 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="MalUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MalUrl" />
-      <module name="MalUrl" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MalUrl" />
+    <configuration name="DateDayFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateDayFinder" />
+      <module name="DateDayFinder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DateDayFinder" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MalUrl" />
+        <item itemvalue="Application.DateDayFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -155,16 +138,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547580597058</updated>
-      <workItem from="1551611793817" duration="906000" />
+      <workItem from="1551611793817" duration="2892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="906000" />
+    <option name="totallyTimeSpent" value="2892000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="731" y="65" width="635" height="647" extended-state="0" />
-    <editor active="true" />
+    <frame x="554" y="48" width="635" height="647" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.30153322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -297,8 +279,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DateDayFinder/src/DateDayFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="552">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
