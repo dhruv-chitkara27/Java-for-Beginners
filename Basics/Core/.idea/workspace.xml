@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dbf0cfa-3a27-4eb9-a12f-918dc5fa9b3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MaxyFinder/src/Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLinkedList/src/Banker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLinkedList/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxyFinder/src/MaxyFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/MaxyFinder/src/MaxyFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaxyFinder/MaxyFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaxyFinder/MaxyFinder.class" afterDir="false" />
-    </list>
+    <list default="true" id="7dbf0cfa-3a27-4eb9-a12f-918dc5fa9b3b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -118,7 +110,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,6 +194,7 @@
       <workItem from="1551427329857" duration="2618000" />
       <workItem from="1551500713608" duration="9037000" />
       <workItem from="1551615417698" duration="5590000" />
+      <workItem from="1551628225454" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary="Variables.java">
       <created>1547576209843</created>
@@ -215,12 +207,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21177000" />
+    <option name="totallyTimeSpent" value="21338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="693" y="27" width="673" height="740" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49754903" visible="true" weight="0.3152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49754903" visible="true" weight="0.3264" />
       <window_info id="Structure" order="1" sideWeight="0.502451" side_tool="true" weight="0.1828528" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
